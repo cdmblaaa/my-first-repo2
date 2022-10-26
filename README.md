@@ -3,7 +3,7 @@ This is the website for the final project.
 
 ## Team
 
-Harry Wang
+Xinrui Pan
 
 ## Dataset
 
