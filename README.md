@@ -1,9 +1,10 @@
 # My First Project
 This is the website for the my self introduction.
 
-## Team
+## Name
 
 Xinrui Pan
+
 
 ## Skills
 Python\n
