@@ -6,9 +6,9 @@ This is the website for the my self introduction.
 Xinrui Pan
 
 ## Skills
-Python
-Java
-R
+Python\n
+Java\n
+R\n
 SPSS
 
 
