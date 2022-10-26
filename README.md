@@ -7,9 +7,9 @@ Xinrui Pan
 
 
 ## Skills
--Python  \n
--Java  \n
--R  \n
+-Python  
+-Java  
+-R  
 -SPSS
 
 
