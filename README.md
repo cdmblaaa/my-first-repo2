@@ -1,5 +1,5 @@
-# Sample Project
-This is the website for the final project.
+# My First Project
+This is the website for the my self introduction.
 
 ## Team
 
